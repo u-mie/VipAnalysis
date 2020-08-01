@@ -36,13 +36,13 @@ export default {
   data: function () {
     return {
       options: [{
-        value: 'http://jx.598110.com/?url=',
+        value: 'https://jx.598110.com/?url=',
         label: 'VIP接口1'
       }, {
-        value: 'http://jx.drgxj.com/?url=',
+        value: 'https://jx.drgxj.com/?url=',
         label: 'VIP接口2'
       }, {
-        value: 'http://jiexi.071811.cc/jx.php?url=',
+        value: 'https://jiexi.071811.cc/jx.php?url=',
         label: 'VIP接口3'
       }, {
         value: 'https://cdn.yangju.vip/k/?url=',
