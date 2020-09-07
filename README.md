@@ -1,24 +1,29 @@
-# vipanalysis
+# 在线 VIP 解析网站
 
-## Project setup
+## 使用说明
+
+### 安装网站所需要依赖包
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行当前网站
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 构建网站
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 修改网站接口
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**_打开 store 文件夹修改 state.js 里面的 options 选项_**
+
+### 修改网站标题
+
+**_打开 vue.config.js 文件修改 args[0].title_**

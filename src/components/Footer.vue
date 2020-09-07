@@ -16,5 +16,6 @@ export default {
 <style scoped>
 .exemption {
   color: #9a9a9a;
+  padding: 12px;
 }
 </style>
